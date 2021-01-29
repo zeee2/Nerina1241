@@ -5,7 +5,7 @@ Hello! My name is Nerina and I live in South Korea and I am a high school studen
 [![Nerina's github stats](https://github-readme-stats.vercel.app/api?username=nerina1241&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/nerina1241)
 [![Nerina's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nerina1241&exclude_repo=blog,blog.nerina1241.dev&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=radical&hide=ruby)](https://github.com/nerina1241)
 
-## 🌱 **I’m currently learning ...**
+## ⏳ **I’m currently learning ...**
 <img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/python_103279.png" alt="Python" width="90"> <img src="https://www.nicepng.com/png/full/264-2641184_111-kb-png-golang-logo.png" alt="Go Lang" width="90"> <img src="https://file.nerina.pw/nerina/frontend.png" alt="Front End" width="90">
 
 ## 🖥️ Programming Languages
