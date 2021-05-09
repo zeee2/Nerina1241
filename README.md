@@ -1,25 +1,41 @@
-### 👋 Hi Hello!, Welcome to my profile :3
-Hello! My name is Nerina and I live in South Korea and I am a high school student who is interested in coding and VFX.
+## 👋 Hi Hello!, Welcome to my profile :3    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNerina1241&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+Hello! My name is Nerina and I live in South Korea and I am a high school student who is interested in backend and frontend
 
-## 📊 GitHub Stats
-[![Nerina's github stats](https://github-readme-stats.vercel.app/api?username=nerina1241&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/nerina1241)
-[![Nerina's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nerina1241&exclude_repo=blog,blog.nerina1241.dev&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=radical&hide=ruby)](https://github.com/nerina1241)
-
-## ⏳ **I’m currently learning ...**
-<img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/python_103279.png" alt="Python" width="90"> <img src="https://www.nicepng.com/png/full/264-2641184_111-kb-png-golang-logo.png" alt="Go Lang" width="90"> <img src="https://file.nerina.pw/nerina/frontend.png" alt="Front End" width="90">
-
-## 🖥️ Programming Languages
-### **Advanced**
-<img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/python_103279.png" alt="Python" width="90">
-
-### **Intermediate**
-<img src="https://file.nerina.pw/nerina/delphi.png" alt="Delphi IDE" width="90"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="C#" width="90">
-
-### **beginner**
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="Mysql" width="90"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="HTML" width="90"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" alt="CSS" width="90">
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="JavaScript" width="90"> <img src="https://apprecs.org/ios/images/app-icons/256/0e/500466958.jpg" alt="Assembly language" width="90">
-
-## 🌐 **Contacts**
+[![Discord](https://discord.c99.nl/widget/theme-4/637921223312932895.png)](http://discord.com/users/637921223312932895)
 [![Twitter](https://img.shields.io/badge/Twitter-@Nerina-00acee?style=for-the-badge&logo=twitter)](https://twitter.com/n2r1na)
-[![Discord](https://img.shields.io/badge/Discord-Nerina＃4444-7289DA?style=for-the-badge&logo=discord)](https://discordapp.com/users/637921223312932895)
+[![Discord](https://img.shields.io/badge/Discord-ZEEE＃4444-7289DA?style=for-the-badge&logo=discord)](https://discordapp.com/users/637921223312932895)
 [![Twitch](https://img.shields.io/badge/Twitch-Nerina-purple?style=for-the-badge&logo=twitch)](https://www.twitch.tv/n2r1na)
+
+## Using/Learning
+#### Languages
+> [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](http://python.org/)
+> [![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+> [![c#](	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/ko-kr/dotnet/csharp/)
+> [![html](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://devdocs.io/html/)
+> [![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://devdocs.io/css/)
+> [![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)](https://www.javascript.com)
+> [![delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)](https://www.embarcadero.com/products/delphi)
+
+#### Programs
+> [![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com)
+> [![visualStudio](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.com)
+> [![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)](https://gitkraken.com)
+
+#### Databases
+> [![Mysql](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://www.mysql.com/)
+> [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+> [![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
+#### Frameworks
+> [![vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
+> [![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/1.1.x/)
+> [![redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+> [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+> [![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+> [![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
+> [![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
+
+---
+
+![Metrics](https://metrics.lecoq.io/Nerina1241?template=classic&isocalendar=1&languages=1&pagespeed=1&gists=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&pagespeed.url=nerina.pw&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FSeoul)
+
