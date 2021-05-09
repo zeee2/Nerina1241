@@ -2,6 +2,7 @@
 Hello! My name is Nerina and I live in South Korea and I am a high school student who is interested in backend and frontend
 
 [![Discord](https://discord.c99.nl/widget/theme-4/637921223312932895.png)](http://discord.com/users/637921223312932895)
+  
 [![Twitter](https://img.shields.io/badge/Twitter-@Nerina-00acee?style=for-the-badge&logo=twitter)](https://twitter.com/n2r1na)
 [![Discord](https://img.shields.io/badge/Discord-ZEEE＃4444-7289DA?style=for-the-badge&logo=discord)](https://discordapp.com/users/637921223312932895)
 [![Twitch](https://img.shields.io/badge/Twitch-Nerina-purple?style=for-the-badge&logo=twitch)](https://www.twitch.tv/n2r1na)
