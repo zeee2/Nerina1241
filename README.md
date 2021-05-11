@@ -1,5 +1,5 @@
 ## 👋 Hi Hello!, Welcome to my profile :3    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNerina1241&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-Hello! My name is Nerina and I live in South Korea and I am a high school student who is interested in backend and frontend
+Hello! My name is Nerina and I live in South Korea who is interested in backend and frontend
 
 [![Discord](https://discord.c99.nl/widget/theme-4/637921223312932895.png)](http://discord.com/users/637921223312932895)
   
